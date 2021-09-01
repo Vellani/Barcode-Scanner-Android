@@ -1,6 +1,6 @@
 # Barcode_Scanner_Project
 
-Client requested a Barcode Scanner Application that would replace old handheld scanners
+A Barcode Scanner Application that would replace old handheld scanners
 for warehouse inventory management. 
 
 It needed to be as simplistic a spossible to ease employee workload. Backend handles 
